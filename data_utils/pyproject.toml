@@ -1,0 +1,17 @@
+[project]
+name = "data_utils"
+version = "0.1.0"
+dependencies = [
+  "pandas>=2.2.2",
+  "numpy>=2.1",
+  "pyarrow>=17.0.0",
+  "mne>=1.4.0",
+  "pybv>=0.7.6",
+  "mne_bids>=0.16",
+  "scikit-learn>=0.21.2",
+  "torch>=2.5.1",
+  "pytest>=7.4.0",
+  "nibabel>=5.1.0",
+  "tqdm>=4.65.0",
+  "exca>=0.4.5",
+]
